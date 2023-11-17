@@ -58,3 +58,5 @@ open up you local host and port
 1. dvc init
 2. dvc repro
 3. dvc dag
+
+![img.png](img.png)
