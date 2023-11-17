@@ -1,5 +1,9 @@
 # Chicken-disease-classification-project
 
+## Overview
+
+This project utilizes the VGG16 model pretrained on ImageNet for addressing the problem of classifying images of sick chickens. The project employs Data Version Control (DVC) for effective management of data, models, and pipelines to streamline the workflow. The image classification model is deployed through a simple web interface built using Flask.
+
 ## Workflows
 
 1. Update config.yaml
