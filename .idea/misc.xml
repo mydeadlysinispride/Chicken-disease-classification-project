@@ -4,4 +4,7 @@
     <option name="sdkName" value="chicken_prj" />
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="chicken_prj" project-jdk-type="Python SDK" />
+  <component name="PyCharmProfessionalAdvertiser">
+    <option name="shown" value="true" />
+  </component>
 </project>
